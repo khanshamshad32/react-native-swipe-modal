@@ -1,5 +1,5 @@
 {
-  "name": "swipe-modal",
+  "name": "react-native-swipe-modal",
   "version": "1.0.0",
   "description": "A react native library, provides a Modal that supports transition from all direction with swipe to close it",
   "main": "index.js",
