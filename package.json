@@ -1,15 +1,17 @@
 {
   "name": "react-native-swipe-modal",
-  "version": "1.0.2",
-  "description": "A react native library, provides a Modal that supports transition from all direction with swipe to close it",
-  "main": "index.js",
+  "version": "1.0.3",
+  "description": "A react native library, provides a Modal that supports transition from all directions",
+  "main": "index.ss",
+  "types": "lib/typescript/index.d.ts",
   "private": false,
   "dependencies": {    
     "react-native-gesture-handler": "^2.8.0"
   },
   "devDependencies": {
     "react": "18.1.0",
-    "react-native": "0.70.6"
+    "react-native": "0.70.6",
+    "typescript": "4.1.5"
   },
   "keywords": [
     "react",
